@@ -2,4 +2,4 @@
 my first repository
 
 ### Welcome to my repository
-Thanks for joining us
+Thanks to join us
